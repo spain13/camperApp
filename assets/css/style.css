@@ -170,3 +170,93 @@ section {
   line-height: 15px;
   padding: 10px;
 }
+
+/* =========ukgg.html========= */
+
+.person {
+  background-image: url(../img/Main\ Image.png);
+  background-repeat: no-repeat;
+  height: 329px;
+  width: 375px;
+  display: flex;
+}
+.girl {
+  margin-top: 30%;
+}
+.follower {
+  font-family: "Jost";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 140%;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #424753;
+}
+.followerSofie {
+  padding-top: 20px;
+}
+.info article {
+  font-family: "Hiragino Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+
+  color: #000000;
+}
+.info {
+  display: flex;
+}
+.info h3 {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 140%;
+
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+
+  color: #424753;
+}
+.info h5 {
+  font-family: "Rubik";
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+
+  letter-spacing: 0.05em;
+
+  color: #424753;
+}
+.info p {
+  font-family: "Hiragino Sans";
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+
+  color: #9a9a9a;
+}
+.icon {
+  display: flex;
+  justify-content: space-around;
+  border: 1.5px solid #2d4535;
+  filter: drop-shadow(0px 15px 45px rgba(0, 0, 0, 0.1));
+  border-radius: 10px;
+  font-family: "Hiragino Sans";
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+  padding: 10px;
+  margin: 30px;
+
+  text-align: center;
+
+  color: #313131;
+}
+.karte{
+  filter: drop-shadow(0px 15px 45px rgba(0, 0, 0, 0.1));
+border-radius: 12px;
+background-image: url(../img/Map.png);
+
+}
